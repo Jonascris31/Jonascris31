@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I specialize in full-stack backend solutions and g
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jonascris31&show_icons=true&theme=tokyonight" alt="Jonas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jonascris31&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jonascris31&show_icons=true&theme=tokyonight" height="165" alt="Jonas's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jonascris31&layout=compact&theme=tokyonight&hide_progress=false" height="165" alt="Top Languages" />
 </p>
 
 ---
