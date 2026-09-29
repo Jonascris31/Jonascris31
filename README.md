@@ -133,19 +133,18 @@ Expected graduation: **2027**
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonascris31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonascris31&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jonascris31&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=Jonascris31&show_icons=true&theme=tokyonight" 
+    height="165" 
+    alt="Jonas's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jonascris31&layout=compact&theme=tokyonight&hide_progress=false" 
+    height="165" 
+    alt="Top Languages" 
+  />
+</p>
 
 ---
 
